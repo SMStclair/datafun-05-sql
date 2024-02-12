@@ -41,7 +41,12 @@ py -m pip freeze > requirements.txt
 [Data Used](https://github.com/SMStclair/datafun-05-sql/tree/main/data)
 [Python and SQL Integration](https://github.com/SMStclair/datafun-05-sql/blob/main/seanstclair_sql.py)
 
+## Schema Design & Database Creation
+ - Create new SQLite database file.
 
+ - Design schema with at least two related tables, including foregin key constraints.
+ - Utilized example data sets 'authors.csv' and 'books.csv' from module 5
+ 
 ## Specification
 
 This project was built to the following specification:
